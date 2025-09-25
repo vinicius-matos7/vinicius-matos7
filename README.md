@@ -6,7 +6,7 @@
 
 <br>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Bahia (IFBA)**. Apaixonado por matemática e sua aplicação na resolução de problemas, estou direcionando minha carreira para as áreas de **Inteligência Artificial** e **Ciência de Dados**.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (IFBA)**, trago uma forte base analítica da minha trajetória na Engenharia Química. Foi lá que aprofundei minhas habilidades em cálculo, álgebra linear e modelagem matemática, competências que hoje aplico com entusiasmo nos meus estudos de **Inteligência Artificial** e **Ciência de Dados**.
 
 Acredito que a combinação de raciocínio lógico e dados pode gerar insights poderosos e soluções inovadoras. Estou sempre em busca de projetos onde possa aplicar e expandir minhas habilidades.
 
