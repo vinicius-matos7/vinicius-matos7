@@ -8,21 +8,21 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Bahia (IFBA)**. Apaixonado por matemática e sua aplicação na resolução de problemas, estou direcionando minha carreira para as áreas de **Inteligência Artificial** e **Ciência de Dados**.
 
-Atualmente, estou focado em construir uma base sólida em algoritmos de Machine Learning e técnicas de análise de dados. Acredito que a combinação de raciocínio lógico e dados pode gerar insights poderosos e soluções inovadoras.
+Acredito que a combinação de raciocínio lógico e dados pode gerar insights poderosos e soluções inovadoras. Estou sempre em busca de projetos onde possa aplicar e expandir minhas habilidades.
 
 <br>
 
 ## 🚀 Meus Projetos em Destaque
 
-Aqui estão alguns projetos que desenvolvi para aplicar e aprofundar meus conhecimentos:
+Aqui estão alguns projetos que desenvolvi para aplicar e aprofundar meus conhecimentos. Para mais detalhes, visite o README de cada repositório!
 
 | Projeto | Descrição |
 | --- | --- |
-| 📈 **[Regressao_Linear_Simples](https://github.com/vinicius-matos7/Regressao_Linear_Simples)** | Implementação de um modelo de regressão linear para prever uma variável contínua a partir de uma variável de entrada. |
-| 📊 **[Regressao_Linear_Multipla](https://github.com/vinicius-matos7/Regressao_Linear_Multipla)** | Evolução do modelo anterior, utilizando múltiplas variáveis para melhorar a acurácia das previsões. |
-| 📉 **[Regressao_Polinomial](https://github.com/vinicius-matos7/Regressao_Polinomial)** | Exploração de modelos não-lineares para capturar relações mais complexas nos dados. |
-| 🔎 **[EDA_IA](https://github.com/vinicius-matos7/EDA_IA)** | Projeto focado em Análise Exploratória de Dados (EDA), uma etapa crucial em qualquer projeto de IA. |
-| ➗ **[estatistica_ia](https://github.com/vinicius-matos7/estatistica_ia)** | Notebooks com estudos e aplicações de conceitos estatísticos fundamentais para Inteligência Artificial. |
+| 📈 **[Regressao_Linear_Simples](https://github.com/vinicius-matos7/Regressao_Linear_Simples)** | Análise e previsão do custo de um plano de saúde com base na idade do paciente. |
+| 📊 **[Regressao_Linear_Multipla](https://github.com/vinicius-matos7/Regressao_Linear_Multipla)** | Modelo para estimar o preço de imóveis utilizando múltiplas variáveis como área, n° de quartos e localização. |
+| 📉 **[Regressao_Polinomial](https://github.com/vinicius-matos7/Regressao_Polinomial)** | Estudo de modelos não-lineares para capturar relações mais complexas em dados, como a aceleração de tendências. |
+| 🔎 **[EDA_IA](https://github.com/vinicius-matos7/EDA_IA)** | Análise exploratória de dados para identificar os principais fatores de rotatividade (churn) de clientes em um serviço. |
+| ➗ **[estatistica_ia](https://github.com/vinicius-matos7/estatistica_ia)** | Notebooks aplicando testes de hipótese e conceitos estatísticos para validação de dados em projetos de IA. |
 
 <br>
 
@@ -37,9 +37,13 @@ Aqui estão alguns projetos que desenvolvi para aplicar e aprofundar meus conhec
 
 <br>
 
-## 🌱 Estou Buscando
+## 🌱 Atualmente Aprendendo
 
-Estou em busca de **oportunidades de estágio e projetos desafiadores** onde eu possa aplicar meu conhecimento, aprender com profissionais experientes e contribuir para soluções reais.
+Estou sempre buscando expandir meu conhecimento. No momento, meus estudos estão focados em:
+
+- **Deep Learning com TensorFlow:** Para entender e criar redes neurais.
+- **Computação em Nuvem (AWS/GCP):** Com foco nos serviços de Machine Learning e Big Data.
+- **Ferramentas de MLOps (Docker):** Para aprender a colocar modelos em produção.
 
 <br>
 
